@@ -1,0 +1,903 @@
+fileFormatVersion: 2
+guid: b706054ac003f254ca5d7bab132c4197
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2180
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c59061c089a5f4da145fdd3d06e36e
+      internalID: 927890082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_1"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2180
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b050396eecabd9e4ea6ee2cdf0cfddbd
+      internalID: 1394511112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_2"
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2180
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b8ae269fc570347a1af0d8c9db4bb7
+      internalID: -805357188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_3"
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2180
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e6c8b527e36ad48bff6bf027dc90cd
+      internalID: -483591034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_4"
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2180
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea31b3dacee0724594a7270ccfaf6d2
+      internalID: 1605441671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_5"
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2180
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff048a37d33c0c4aa8a8d5d9b33abd3
+      internalID: -1133035082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1744
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31501e16b4940794a948aa843c442a73
+      internalID: 638959709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_7"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1744
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45779b13efaa734daf6a3456541c93e
+      internalID: 158475839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_8"
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1744
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f079fd99fcebbc40b74fa6bf9fc535c
+      internalID: 903543659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_9"
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1744
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a644e4219790a94fbd0406d379aa36b
+      internalID: -1610315318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_10"
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1744
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f08d9124af8d149bf7d95e3656fae0
+      internalID: -1304025581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_11"
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1744
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828bc94a7e426324da6435841308628b
+      internalID: 1738508167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1308
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141eda57a0fa85741835baf6d15eec86
+      internalID: -1924286385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_13"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1308
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb0097152ad0984da1669655dc69ad1
+      internalID: 1560424530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_14"
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1308
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b979b45288f1bae4b8a226090c70afe1
+      internalID: 639798688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_15"
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1308
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac5c21c4daa7d40a00ff0840e56374
+      internalID: 1899715471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_16"
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1308
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a4dbcb050f7aa4694889c914410053
+      internalID: -78584777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_17"
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1308
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2fd06a04b9bc141806ede537041e44
+      internalID: -237086119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 872
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bfb1d0226fb824f85acaf97dc54b6c
+      internalID: -1744965627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_19"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 872
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aed0b6d48fcd540aba71db798b0e11
+      internalID: 1320008061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_20"
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 872
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacea2d032e3b8a489b1316c5e3b77c1
+      internalID: 102885424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_21"
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 872
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c188b839714fbc4e813066613f43177
+      internalID: 1204143174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_22"
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 872
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46205e353f80a8342abd4aa5529d23e9
+      internalID: 541431904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_23"
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 872
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22666a06aea3d440986835c3d4cfc0a
+      internalID: 882322439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5c9c86b5913d8429e1c887d8838693
+      internalID: 734176778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_25"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 436
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4935c4835b4bb4b84f2375def84205
+      internalID: 1623737115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_26"
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 436
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a50a50c66b8d644b797621e39bfbdd
+      internalID: -336870647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_27"
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 436
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ea460c72193e94abddd08e4d767b6d
+      internalID: -52203783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_28"
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 436
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89190511d94dd6e47aad8b58a980f561
+      internalID: -562680172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_29"
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 436
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf3551c83ad47499b7d4f537190d96
+      internalID: 7147907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_30"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd930628280cb4aae1853773e8ac27
+      internalID: 1621832050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_31"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4c64ecb896ca940a1e9762cefc924e
+      internalID: 1428330550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_32"
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4d2f4963c88164481f55fd07128b63
+      internalID: -499910965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_33"
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae289b96ea82f804198548591ff54f67
+      internalID: -181103720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_34"
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6ce4200fedecc479d5108525d43579
+      internalID: -1259993331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "di chuy\u1EC3n_35"
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 0
+        width: 520
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966331c1fcea376489824bd797b99489
+      internalID: 2066476091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "di chuy\u1EC3n_0": 927890082
+      "di chuy\u1EC3n_1": 1394511112
+      "di chuy\u1EC3n_10": -1304025581
+      "di chuy\u1EC3n_11": 1738508167
+      "di chuy\u1EC3n_12": -1924286385
+      "di chuy\u1EC3n_13": 1560424530
+      "di chuy\u1EC3n_14": 639798688
+      "di chuy\u1EC3n_15": 1899715471
+      "di chuy\u1EC3n_16": -78584777
+      "di chuy\u1EC3n_17": -237086119
+      "di chuy\u1EC3n_18": -1744965627
+      "di chuy\u1EC3n_19": 1320008061
+      "di chuy\u1EC3n_2": -805357188
+      "di chuy\u1EC3n_20": 102885424
+      "di chuy\u1EC3n_21": 1204143174
+      "di chuy\u1EC3n_22": 541431904
+      "di chuy\u1EC3n_23": 882322439
+      "di chuy\u1EC3n_24": 734176778
+      "di chuy\u1EC3n_25": 1623737115
+      "di chuy\u1EC3n_26": -336870647
+      "di chuy\u1EC3n_27": -52203783
+      "di chuy\u1EC3n_28": -562680172
+      "di chuy\u1EC3n_29": 7147907
+      "di chuy\u1EC3n_3": -483591034
+      "di chuy\u1EC3n_30": 1621832050
+      "di chuy\u1EC3n_31": 1428330550
+      "di chuy\u1EC3n_32": -499910965
+      "di chuy\u1EC3n_33": -181103720
+      "di chuy\u1EC3n_34": -1259993331
+      "di chuy\u1EC3n_35": 2066476091
+      "di chuy\u1EC3n_4": 1605441671
+      "di chuy\u1EC3n_5": -1133035082
+      "di chuy\u1EC3n_6": 638959709
+      "di chuy\u1EC3n_7": 158475839
+      "di chuy\u1EC3n_8": 903543659
+      "di chuy\u1EC3n_9": -1610315318
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

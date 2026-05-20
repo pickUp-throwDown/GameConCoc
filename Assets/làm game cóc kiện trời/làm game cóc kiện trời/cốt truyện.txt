@@ -1,0 +1,69 @@
+Game cóc kiện trời
+
+-Cốt truyện : 
+-Con cóc tên cậu
+-Sống gần ao nước nhưng lại ko biết bơi
+
+-Sải ra Hạn hán vì ngọc hoàng phải dỗ vợ dận 3 ngày 3 đêm vì làm mất cái khăng tay do bà tặng vì trước đó đi chơi dưới hạ giới lỡ làm rơi bất
+
+- Nhưng 1 ngày trên thiên đình bằng 1 năm dưới trần thế .. và đã quên phải cho phép mưa . Nên bị hạn hán 3 năm
+
+-các thiên binh thiên tướng đã ban phát lệnh khấp 3 giới tìm cho bằng được cái khăng tay
+
+-Vô tình cái khăng tay của ngọc hoàn lại bị con rắng đen về làm lá cờ trên đỉnh núi
+
+-Vì tính mạng của gia đình cóc quyết đi lấy lại chiếc khăng tay và trèo cây cổ thụ đưa nó trã lại cho ngọc hoàng
+
+
+Bối cảnh map :
+Map1: từ vũng nước tới hang ổ của rắng hổ mang trên núi để lấy lại khăng
+
+Map2: leo lên cây cổ thụ
+
+Map3:nhảy lên mâyy và gập ngọc hoàng
+
+
+Cụ thể của từng map 
+
+
+map1:
+Vũng nước: lá sen bị rách , con cá táp , lá bèo di chuyển 
+Leo lên núi: lở núi khi đứng lâu , đá rớt . 
+Boss : gập rắng đang ngũ .. và phải nhảy lên các tản đá để lấy cái khăng .. nếu làm đá lỡ hoặc té thì sẽ làm rắng tỉnh dậy và game over
+
+Mỗi lần chết sẽ đc hồi sinh ở điểm check point gần nhất
+
+Các điểm check point : nhà của cóc , dưới chân núi , cửa hang rắn 
+
+
+
+
+Map2
+Leo cây cổ thụ : dây leo bị đức , gió thỏi làm té , nước mưa trên lá cây làm té , gãi nhánh cây khi đứng lâu , chim bay ngan đụng trúng té , nhảy dính tơ nhện và bị kẹt tới chết, nhảy ra ngoài cây té xuống tận dưới dat
+
+Boss : nhện . Nhện canh trực ở gần đỉnh của cây đại thụ .. nếu nhảy lên thẳng hoặc để nhênn thấy trước thì nhện sẽ tấn công mình ngay lập tức , mình phải đạp lên bông hoa chưa nở để toả hương sao đó 3-4s sao có 1 con bướm bay tới , lúc đó nhện sẽ bỏ vị trí và leo xuống tấn công bướm .. trong khoảng vài giây đó mình phải leo lên trên đọt cây nhanh nhất có thể trứo khi nhện quây trở lại vị trí
+
+
+
+
+Map 3 : 
+TRÊN MÂY : mây di chuyển liên tục , mây giả bị  xuyên thấu , gió , đồ vật rới từ trên trời xuống ( do ngọc hoàng cải lộn ném xuống ) , con chim gấp đưa xuống đỉnh cây, Vùng ảo ảnh ( hình ảnh bị lè nhè ) khó nhảy hơn 
+
+
+
+
+
+
+Kết gập ngọc hoàng
+: Bối canh: đanh cải nhau
+
+Ngọc hoàng : tôi đã nói rồi tôi không nhớ đã để nó ở đâu
+Vợ : ông còn giả vờ hả , có phải ông đem tặng nó cho con hồ ly tinh nào rồi đúng không
+
+Cóc nhảy lên trướng mặt ngọc hoàng
+
+Ngọc hoàng : ôi trờii thì ra là bị rơi xuống trần thế hả . Cảm ơn cậu cóc đã mang trã lại cho ta nha
+
+Ngọc hoàng : để trã ơn , cậu cóc có muốn 1 điều ước gì ko
+
+Cóc : cẹc cẹc cẹc
