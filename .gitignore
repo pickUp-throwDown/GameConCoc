@@ -1,0 +1,14 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Build]/
+/[Builds]/
+/[Exe]/
+/[Logs]/
+/[UserSettings]/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
